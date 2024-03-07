@@ -1,0 +1,423 @@
+.bottomnavbar {
+  position: absolute;
+  top: 621px;
+  left: 0;
+  background-color: var(--color-white);
+  box-shadow: 5px 0 4px rgba(0, 0, 0, 0.25);
+  width: 375px;
+  height: 50px;
+}
+.irctclogo-icon6 {
+  position: absolute;
+  top: 5px;
+  left: 0;
+  width: 47px;
+  height: 35px;
+  object-fit: cover;
+}
+.irctc-rail-connect {
+  position: absolute;
+  top: 2.25%;
+  left: 11.47%;
+  font-size: var(--font-size-base);
+  font-weight: 600;
+}
+.iconsaxlinearnotification {
+  position: absolute;
+  top: 15px;
+  left: 302px;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+}
+.dashboard-child {
+  position: absolute;
+  top: 12px;
+  left: 334px;
+  border-radius: 50%;
+  width: 28px;
+  height: 28px;
+  object-fit: cover;
+}
+.home {
+  position: absolute;
+  top: 647px;
+  left: 36px;
+  font-weight: 600;
+}
+.order-food,
+.settings,
+.train-status {
+  position: absolute;
+  top: 647px;
+  left: 118px;
+  font-weight: 500;
+  color: var(--color-black);
+}
+.settings,
+.train-status {
+  left: 214px;
+}
+.settings {
+  top: 646px;
+  left: 310px;
+}
+.dashboard-item {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 0 0 var(--br-5xl) var(--br-5xl);
+  background: linear-gradient(
+    180deg,
+    rgba(255, 255, 255, 0) 56.25%,
+    rgba(244, 244, 251, 0.82) 86.46%,
+    rgba(240, 240, 255, 0.72)
+  );
+  width: 375px;
+  height: 458px;
+}
+.dashboard-child1,
+.dashboard-child2,
+.dashboard-child3,
+.dashboard-child4,
+.dashboard-inner {
+  position: absolute;
+  top: 113px;
+  left: 46px;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-linen);
+  width: 74px;
+  height: 39px;
+}
+.dashboard-child1,
+.dashboard-child2,
+.dashboard-child3,
+.dashboard-child4 {
+  top: 204px;
+  left: 29px;
+  width: 314px;
+  height: 51px;
+}
+.dashboard-child2,
+.dashboard-child3,
+.dashboard-child4 {
+  top: 108px;
+  left: 31px;
+  width: 123px;
+}
+.dashboard-child3,
+.dashboard-child4 {
+  top: 107px;
+  left: 217px;
+}
+.dashboard-child4 {
+  top: 294px;
+  left: 30px;
+  width: 313px;
+  height: 40px;
+}
+.feb {
+  position: absolute;
+  top: 214px;
+  left: 69px;
+  font-size: var(--font-size-lg);
+  font-weight: 500;
+  color: var(--color-chocolate);
+}
+.dashboard-child5 {
+  position: absolute;
+  top: 374px;
+  left: 29px;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-linen);
+  width: 314px;
+  height: 40px;
+}
+.dashboard-child6 {
+  top: 523px;
+  left: 8px;
+  border-radius: var(--br-8xs);
+  width: 173px;
+  height: 63px;
+}
+.dashboard-child6,
+.dashboard-child7,
+.dashboard-child8 {
+  position: absolute;
+  background-color: var(--color-ghostwhite);
+}
+.dashboard-child7 {
+  top: 523px;
+  left: 196px;
+  border-radius: var(--br-8xs);
+  width: 173px;
+  height: 63px;
+}
+.dashboard-child8 {
+  height: 5.4%;
+  width: 9.6%;
+  top: 17.39%;
+  right: 45.33%;
+  bottom: 77.21%;
+  left: 45.07%;
+  border-radius: 50%;
+}
+.date,
+.from,
+.select-class,
+.to {
+  position: absolute;
+  top: 184px;
+  left: 30px;
+  font-weight: 500;
+}
+.from,
+.select-class,
+.to {
+  top: 91px;
+  left: 34px;
+}
+.select-class,
+.to {
+  left: 226px;
+}
+.select-class {
+  top: 276px;
+  left: 30px;
+}
+.kgp,
+.ndls,
+.recent-searches,
+.select-qouta {
+  position: absolute;
+  top: 357px;
+  left: 28px;
+  font-weight: 500;
+}
+.kgp,
+.ndls,
+.recent-searches {
+  top: 506px;
+  left: 10px;
+}
+.kgp,
+.ndls {
+  top: 533px;
+  left: 16px;
+  font-size: var(--font-size-xl);
+}
+.kgp {
+  left: 204px;
+}
+.thursday-30-dec,
+.thursday-30-dec1 {
+  position: absolute;
+  top: 568px;
+  left: 16px;
+  font-weight: 500;
+}
+.thursday-30-dec1 {
+  left: 204px;
+}
+.chennai-central,
+.howrah-jn,
+.hwh,
+.kharagpur-jn,
+.mas,
+.new-delhi {
+  position: absolute;
+  top: 557px;
+  left: 17px;
+  font-size: var(--font-size-8xs);
+  font-weight: 500;
+}
+.chennai-central,
+.howrah-jn,
+.hwh,
+.kharagpur-jn,
+.mas {
+  left: 205px;
+}
+.chennai-central,
+.howrah-jn,
+.hwh,
+.mas {
+  left: 128px;
+}
+.howrah-jn,
+.hwh,
+.mas {
+  top: 556px;
+  left: 311px;
+}
+.hwh,
+.mas {
+  top: 534px;
+  left: 127px;
+  font-size: var(--font-size-xl);
+}
+.hwh {
+  left: 310px;
+}
+.general,
+.second-sitting-2s,
+.wednesday {
+  position: absolute;
+  top: 233px;
+  left: 71px;
+  font-weight: 500;
+  color: var(--color-chocolate);
+}
+.general,
+.second-sitting-2s {
+  top: 308px;
+  left: 43px;
+}
+.general {
+  top: 388px;
+  left: 53px;
+}
+.cbe {
+  top: 122px;
+  left: 66px;
+  font-size: var(--font-size-lg);
+}
+.cbe,
+.day-after,
+.mas1,
+.tomorrow {
+  position: absolute;
+  font-weight: 500;
+  color: var(--color-chocolate);
+}
+.mas1 {
+  top: 122px;
+  left: 261px;
+  font-size: var(--font-size-lg);
+}
+.day-after,
+.tomorrow {
+  top: 225px;
+  left: 197px;
+}
+.day-after {
+  left: 276px;
+}
+.iconsaxlinearcalendaredit {
+  position: absolute;
+  top: 219px;
+  left: 40px;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+}
+.dashboard-child10,
+.dashboard-child9 {
+  position: absolute;
+  top: 220px;
+  left: 188px;
+  border-radius: var(--br-8xs);
+  border: 0.5px solid var(--color-chocolate);
+  box-sizing: border-box;
+  width: 66px;
+  height: 23px;
+}
+.dashboard-child10 {
+  left: 264px;
+}
+.iconsaxlineararrowdown24,
+.iconsaxlineararrowdown25 {
+  position: absolute;
+  top: 303px;
+  left: 309px;
+  width: 21px;
+  height: 21px;
+  overflow: hidden;
+}
+.iconsaxlineararrowdown25 {
+  top: 384px;
+  left: 308px;
+  width: 20px;
+  height: 20px;
+}
+.iconsaxlineararrowswaphorizo,
+.iconsaxlineararrowswaphorizo1 {
+  position: absolute;
+  top: 535px;
+  left: 88px;
+  width: 21px;
+  height: 21px;
+  overflow: hidden;
+}
+.iconsaxlineararrowswaphorizo1 {
+  left: 268px;
+}
+.dashboard-child11 {
+  position: absolute;
+  top: 624px;
+  left: 29px;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-darkslateblue-300);
+  width: 42px;
+  height: 25px;
+}
+.iconsaxlineararrowswaphorizo2 {
+  position: absolute;
+  top: 120px;
+  left: 173px;
+  width: 28px;
+  height: 28px;
+  overflow: hidden;
+}
+.dashboard-child12 {
+  position: absolute;
+  top: 434px;
+  left: 71px;
+  border-radius: var(--br-4xl-5);
+  background-color: var(--color-darkslateblue-200);
+  box-shadow: 0 3px 3px #d6d8eb;
+  width: 231px;
+  height: 47px;
+}
+.search-train {
+  position: absolute;
+  top: 448px;
+  left: 136px;
+  font-size: var(--font-size-base);
+  font-weight: 500;
+  color: var(--color-lavender);
+}
+.food-bank-icon,
+.home-icon,
+.settings-icon,
+.train-icon {
+  position: absolute;
+  top: 625px;
+  left: 38px;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+}
+.food-bank-icon,
+.settings-icon,
+.train-icon {
+  left: 231px;
+}
+.food-bank-icon,
+.settings-icon {
+  left: 133px;
+}
+.settings-icon {
+  left: 318px;
+}
+.dashboard {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 667px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-3xs);
+  color: var(--color-darkslateblue-200);
+  font-family: var(--font-inter);
+}

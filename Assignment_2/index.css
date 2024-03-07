@@ -1,0 +1,136 @@
+.login-screen-child {
+  position: absolute;
+  top: 469px;
+  left: 111px;
+  background-color: var(--color-white);
+  width: 154px;
+  height: 33px;
+}
+.login-screen-item {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 386px;
+  height: 119px;
+}
+.login-screen-inner {
+  position: absolute;
+  top: 74px;
+  left: 138px;
+  border-radius: 50%;
+  background-color: var(--color-white);
+  width: 82px;
+  height: 82px;
+}
+.irctclogo-icon {
+  position: absolute;
+  top: 76px;
+  left: 123px;
+  width: 111px;
+  height: 72px;
+  object-fit: cover;
+}
+.welcome-mathi {
+  position: absolute;
+  top: 173px;
+  left: 24px;
+  font-size: var(--font-size-sm);
+  color: var(--color-dimgray);
+}
+.login-with-username {
+  position: absolute;
+  top: 446px;
+  left: 128px;
+}
+.register-now {
+  text-decoration: underline;
+  font-weight: 500;
+  color: var(--color-darkslateblue-200);
+}
+.new-user-register-container {
+  position: absolute;
+  top: 477px;
+  left: 117px;
+}
+.enter-your-4-digit {
+  position: absolute;
+  top: 206px;
+  left: 24px;
+  font-size: var(--font-size-xl);
+  font-weight: 500;
+  display: inline-block;
+  width: 205px;
+}
+.rectangle-div,
+.rectangle-icon {
+  position: absolute;
+  top: 277px;
+  border-radius: var(--br-8xs);
+  width: 71px;
+  height: 70px;
+}
+.rectangle-div {
+  left: 25px;
+  background-color: var(--color-white);
+  border: 1px solid var(--color-darkslateblue-200);
+  box-sizing: border-box;
+}
+.rectangle-icon {
+  left: 279px;
+}
+.login-screen-child1 {
+  top: 277px;
+  left: 194px;
+  background-color: var(--color-white);
+  border: 1px solid var(--color-darkslateblue-200);
+  box-sizing: border-box;
+  width: 71px;
+  height: 70px;
+}
+.login-screen-child1,
+.login-screen-child2,
+.login-screen-child3 {
+  position: absolute;
+  border-radius: var(--br-8xs);
+}
+.login-screen-child2 {
+  top: 277px;
+  left: 110px;
+  background-color: var(--color-white);
+  border: 1px solid var(--color-darkslateblue-200);
+  box-sizing: border-box;
+  width: 71px;
+  height: 70px;
+}
+.login-screen-child3 {
+  top: 373px;
+  left: 25px;
+  background-color: var(--color-darkslateblue-200);
+  width: 325px;
+  height: 47px;
+}
+.login {
+  position: absolute;
+  top: 387px;
+  left: 160px;
+  font-size: var(--font-size-base);
+  color: var(--color-lavender);
+}
+.login-screen {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-white);
+  width: 1901px;
+  height: 626px;
+  overflow: hidden;
+}
+.login-screen-parent {
+  width: 100%;
+  position: relative;
+  height: 626px;
+  text-align: left;
+  font-size: var(--font-size-xs);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}

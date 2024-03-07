@@ -1,0 +1,238 @@
+.create-account-2-child {
+  position: absolute;
+  top: 38px;
+  left: 38px;
+  border-radius: var(--br-base);
+  width: 302px;
+  height: 121px;
+}
+.create-account-2-item,
+.irctclogo-icon4 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 386px;
+  height: 119px;
+}
+.irctclogo-icon4 {
+  top: 76px;
+  left: 123px;
+  width: 111px;
+  height: 72px;
+  object-fit: cover;
+}
+.create-an-account3 {
+  position: absolute;
+  top: 168px;
+  left: 106px;
+  font-size: var(--font-size-xl);
+  font-weight: 500;
+  color: var(--color-black);
+  display: inline-block;
+  width: 184px;
+}
+.component-1-child12,
+.component-1-child13,
+.component-1-child14 {
+  position: absolute;
+  height: 43.08%;
+  width: 8.95%;
+  top: 0;
+  right: 83.71%;
+  bottom: 56.92%;
+  left: 7.35%;
+  border-radius: 50%;
+  background-color: var(--color-honeydew);
+}
+.component-1-child13,
+.component-1-child14 {
+  right: 47.28%;
+  left: 43.77%;
+  background-color: var(--color-chocolate);
+}
+.component-1-child14 {
+  right: 7.99%;
+  left: 83.07%;
+  background-color: var(--color-linen);
+}
+.component-1-child15,
+.component-1-child16 {
+  position: absolute;
+  height: 1.54%;
+  width: 23.32%;
+  top: 20.77%;
+  right: 59.27%;
+  bottom: 77.69%;
+  left: 17.41%;
+  border-top: 1px solid var(--color-black);
+  box-sizing: border-box;
+}
+.component-1-child16 {
+  right: 19.97%;
+  left: 56.71%;
+}
+.basic-details3 {
+  position: absolute;
+  top: 43.08%;
+  left: 2.24%;
+}
+.kyc-details3,
+.personal-details3 {
+  position: absolute;
+  top: 43.08%;
+  left: 37.7%;
+}
+.kyc-details3 {
+  left: 78.59%;
+}
+.div13,
+.div14,
+.div15 {
+  position: absolute;
+  top: 6.15%;
+  font-size: var(--font-size-sm);
+  font-weight: 600;
+  font-family: var(--font-poppins);
+}
+.div13 {
+  left: 10.86%;
+  color: var(--color-chocolate);
+  display: none;
+}
+.div14,
+.div15 {
+  left: 46.96%;
+  color: var(--color-linen);
+}
+.div15 {
+  left: 86.26%;
+  color: var(--color-chocolate);
+}
+.component-13 {
+  position: absolute;
+  top: 213px;
+  left: 33px;
+  width: 313px;
+  height: 65px;
+  color: var(--color-dimgray);
+}
+.first-name2 {
+  position: absolute;
+  top: 41.98%;
+  left: 9.6%;
+  font-weight: 600;
+}
+.email2,
+.last-name2,
+.phone-number2 {
+  position: absolute;
+  top: 52.17%;
+  left: 9.07%;
+  font-weight: 600;
+}
+.email2,
+.phone-number2 {
+  top: 62.67%;
+  left: 9.6%;
+}
+.phone-number2 {
+  top: 73.01%;
+}
+.create-account-2-child1,
+.create-account-2-child2,
+.create-account-2-child3,
+.create-account-2-inner {
+  position: absolute;
+  top: 295px;
+  left: 36px;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-ghostwhite);
+  width: 307px;
+  height: 34px;
+}
+.create-account-2-child1,
+.create-account-2-child2,
+.create-account-2-child3 {
+  top: 364px;
+  left: 34px;
+}
+.create-account-2-child2,
+.create-account-2-child3 {
+  top: 434px;
+  left: 35px;
+}
+.create-account-2-child3 {
+  top: 503px;
+}
+.mathi2,
+.yuvarajan2 {
+  position: absolute;
+  top: 45.88%;
+  left: 12.8%;
+  font-weight: 600;
+}
+.yuvarajan2 {
+  top: 55.92%;
+  left: 12%;
+}
+.div16,
+.div17,
+.mathitkcodingmartcom2 {
+  position: absolute;
+  top: 66.72%;
+  left: 12.27%;
+  font-weight: 600;
+}
+.div16,
+.div17 {
+  top: 77.06%;
+  left: 20.8%;
+}
+.div17 {
+  left: 27.73%;
+}
+.create-account-2-child4 {
+  position: absolute;
+  top: 574px;
+  left: 29px;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-darkslateblue-200);
+  width: 307px;
+  height: 47px;
+}
+.continue3 {
+  position: absolute;
+  top: 587px;
+  left: 146px;
+  font-size: var(--font-size-base);
+  font-weight: 500;
+  color: var(--color-lavender);
+}
+.iconsaxlineartickcircle2 {
+  position: absolute;
+  top: 211px;
+  left: 54px;
+  width: 32px;
+  height: 32px;
+  overflow: hidden;
+}
+.create-account-2-child5 {
+  position: absolute;
+  top: 510.5px;
+  left: 98.5px;
+  border-right: 1px solid var(--color-darkslateblue-200);
+  box-sizing: border-box;
+  width: 1px;
+  height: 19px;
+}
+.create-account-2 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 667px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-3xs);
+  color: var(--color-darkslateblue-200);
+  font-family: var(--font-inter);
+}

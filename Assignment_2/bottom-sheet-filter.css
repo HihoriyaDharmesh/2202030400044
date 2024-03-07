@@ -1,0 +1,182 @@
+.drag-handle2 {
+  width: 32px;
+  position: relative;
+  border-radius: var(--br-81xl);
+  background-color: var(--m3-sys-light-outline);
+  height: 4px;
+  opacity: 0.4;
+}
+.sheet-header2 {
+  position: absolute;
+  width: 100%;
+  top: 0;
+  right: 0;
+  left: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding: var(--padding-base);
+  box-sizing: border-box;
+}
+.arrival1,
+.departure1,
+.train-types1 {
+  position: absolute;
+  top: 34px;
+  left: 65px;
+  font-size: var(--font-size-5xl);
+  font-weight: 500;
+  color: var(--color-darkslateblue-200);
+}
+.arrival1,
+.departure1 {
+  top: 197px;
+}
+.arrival1 {
+  top: 343px;
+}
+.vector-icon10 {
+  position: absolute;
+  height: 5.74%;
+  width: 5.35%;
+  top: 9.25%;
+  right: 85.29%;
+  bottom: 85.01%;
+  left: 9.36%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.night-21,
+.special-trains-31 {
+  position: absolute;
+  top: 87px;
+  left: 25px;
+  font-weight: 600;
+}
+.night-21 {
+  top: 237px;
+}
+.afternoon-41,
+.morning-31,
+.others-21,
+.passenger-21 {
+  position: absolute;
+  top: 123px;
+  left: 25px;
+  font-weight: 600;
+}
+.afternoon-41,
+.morning-31,
+.others-21 {
+  top: 273px;
+}
+.afternoon-41,
+.others-21 {
+  top: 160px;
+}
+.afternoon-41 {
+  top: 310px;
+}
+.bottom-sheet-filter-child10,
+.bottom-sheet-filter-child11 {
+  position: absolute;
+  top: 111.8px;
+  left: 22.8px;
+  border-top: 0.5px solid var(--color-lightgray);
+  box-sizing: border-box;
+  width: 315.5px;
+  height: 0.5px;
+}
+.bottom-sheet-filter-child11 {
+  top: 261.8px;
+}
+.bottom-sheet-filter-child14,
+.bottom-sheet-filter-child15,
+.bottom-sheet-filter-child18,
+.bottom-sheet-filter-child19 {
+  position: absolute;
+  top: 148.8px;
+  left: 24.8px;
+  border-top: 0.5px solid var(--color-lightgray);
+  box-sizing: border-box;
+  width: 315.5px;
+  height: 0.5px;
+}
+.bottom-sheet-filter-child15,
+.bottom-sheet-filter-child18,
+.bottom-sheet-filter-child19 {
+  top: 298.8px;
+}
+.bottom-sheet-filter-child18,
+.bottom-sheet-filter-child19 {
+  top: 185.8px;
+}
+.bottom-sheet-filter-child19 {
+  top: 335.8px;
+}
+.vector-icon11,
+.vector-icon12 {
+  position: absolute;
+  height: 5.08%;
+  width: 6.15%;
+  top: 76.38%;
+  right: 84.49%;
+  bottom: 18.54%;
+  left: 9.36%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vector-icon12 {
+  top: 44.15%;
+  bottom: 50.77%;
+}
+.cancel2 {
+  position: absolute;
+  top: 405px;
+  left: 77px;
+  font-weight: 600;
+  color: var(--color-darkslateblue-200);
+}
+.bottom-sheet-filter-child20,
+.bottom-sheet-filter-child21 {
+  position: absolute;
+  top: 393px;
+  left: 47px;
+  border-radius: var(--br-5xs);
+  border: 1px solid var(--color-darkslateblue-200);
+  box-sizing: border-box;
+  width: 123px;
+  height: 44px;
+}
+.bottom-sheet-filter-child21 {
+  left: 204px;
+  background-color: var(--color-darkslateblue-200);
+}
+.apply2 {
+  position: absolute;
+  top: 405px;
+  left: 243px;
+  font-weight: 600;
+  color: var(--color-ghostwhite);
+}
+.bottom-sheet-filter1 {
+  width: 374px;
+  position: relative;
+  border-radius: var(--br-9xl) var(--br-9xl) 0 0;
+  background: linear-gradient(
+      rgba(103, 80, 164, 0.05),
+      rgba(103, 80, 164, 0.05)
+    ),
+    #fff;
+  height: 453px;
+  overflow: hidden;
+  max-width: 90%;
+  max-height: 90%;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-gray-200);
+  font-family: var(--font-inter);
+}

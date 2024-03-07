@@ -1,0 +1,282 @@
+.create-account-child {
+  position: absolute;
+  top: 38px;
+  left: 38px;
+  border-radius: var(--br-base);
+  width: 302px;
+  height: 121px;
+}
+.create-account-item,
+.irctclogo-icon1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 386px;
+  height: 119px;
+}
+.irctclogo-icon1 {
+  top: 76px;
+  left: 123px;
+  width: 111px;
+  height: 72px;
+  object-fit: cover;
+}
+.create-an-account {
+  position: absolute;
+  top: 168px;
+  left: 106px;
+  font-size: var(--font-size-xl);
+  font-weight: 500;
+  color: var(--color-black);
+  display: inline-block;
+  width: 184px;
+}
+.component-1-child,
+.component-1-inner,
+.component-1-item {
+  position: absolute;
+  height: 43.08%;
+  width: 8.95%;
+  top: 0;
+  right: 83.71%;
+  bottom: 56.92%;
+  left: 7.35%;
+  border-radius: 50%;
+  background-color: var(--color-chocolate);
+}
+.component-1-inner,
+.component-1-item {
+  right: 47.28%;
+  left: 43.77%;
+  background-color: var(--color-linen);
+}
+.component-1-inner {
+  right: 7.99%;
+  left: 83.07%;
+}
+.component-1-child1,
+.line-div {
+  position: absolute;
+  height: 1.54%;
+  width: 23.32%;
+  top: 20.77%;
+  right: 59.27%;
+  bottom: 77.69%;
+  left: 17.41%;
+  border-top: 1px solid var(--color-black);
+  box-sizing: border-box;
+}
+.component-1-child1 {
+  right: 19.97%;
+  left: 56.71%;
+}
+.basic-details,
+.personal-details {
+  position: absolute;
+  top: 43.08%;
+  left: 2.24%;
+}
+.personal-details {
+  left: 37.7%;
+}
+.div,
+.div1,
+.div2,
+.kyc-details {
+  position: absolute;
+  top: 43.08%;
+  left: 78.59%;
+}
+.div,
+.div1,
+.div2 {
+  top: 6.15%;
+  left: 10.86%;
+  font-size: var(--font-size-sm);
+  font-weight: 600;
+  font-family: var(--font-poppins);
+  color: var(--color-linen);
+}
+.div1,
+.div2 {
+  left: 46.96%;
+  color: var(--color-chocolate);
+}
+.div2 {
+  left: 86.26%;
+}
+.component-1 {
+  position: absolute;
+  top: 213px;
+  left: 33px;
+  width: 313px;
+  height: 65px;
+  color: var(--color-dimgray);
+}
+.confirm-password,
+.password,
+.username {
+  position: absolute;
+  top: 44.08%;
+  left: 9.87%;
+  font-weight: 600;
+}
+.confirm-password,
+.password {
+  top: 53.97%;
+  left: 10.13%;
+}
+.confirm-password {
+  top: 64.47%;
+}
+.create-account-child1,
+.create-account-child2,
+.create-account-inner {
+  position: absolute;
+  top: 310px;
+  left: 36px;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-ghostwhite);
+  width: 307px;
+  height: 34px;
+}
+.create-account-child1,
+.create-account-child2 {
+  top: 375px;
+}
+.create-account-child2 {
+  top: 447px;
+}
+.admin123,
+.eg-user123 {
+  position: absolute;
+  left: 12.8%;
+  font-weight: 600;
+}
+.eg-user123 {
+  top: 48.13%;
+  color: var(--color-lavender);
+}
+.admin123 {
+  top: 57.87%;
+}
+.iconsaxboldeye,
+.iconsaxboldeyeslash {
+  position: absolute;
+  top: 383px;
+  left: 319px;
+  width: 17px;
+  height: 17px;
+  overflow: hidden;
+}
+.iconsaxboldeyeslash {
+  height: 2.55%;
+  width: 4.53%;
+  top: 68.22%;
+  right: 10.4%;
+  bottom: 29.24%;
+  left: 85.07%;
+  max-width: 100%;
+  max-height: 100%;
+}
+.create-account-child3,
+.create-account-child4,
+.create-account-child5,
+.ellipse-div {
+  position: absolute;
+  top: 459px;
+  left: 49px;
+  border-radius: 50%;
+  background-color: var(--color-darkslateblue-200);
+  width: 9px;
+  height: 9px;
+}
+.create-account-child3,
+.create-account-child4,
+.create-account-child5 {
+  left: 64px;
+}
+.create-account-child4,
+.create-account-child5 {
+  left: 78px;
+}
+.create-account-child5 {
+  left: 92px;
+}
+.create-account-child10,
+.create-account-child6,
+.create-account-child7,
+.create-account-child8,
+.create-account-child9 {
+  position: absolute;
+  top: 459px;
+  left: 106px;
+  border-radius: 50%;
+  background-color: var(--color-darkslateblue-200);
+  width: 9px;
+  height: 9px;
+}
+.create-account-child10,
+.create-account-child7,
+.create-account-child8,
+.create-account-child9 {
+  left: 120px;
+}
+.create-account-child10,
+.create-account-child8,
+.create-account-child9 {
+  left: 134px;
+}
+.create-account-child10,
+.create-account-child9 {
+  left: 148px;
+}
+.create-account-child10 {
+  left: 162px;
+}
+.create-account-child11 {
+  top: 459px;
+  left: 176px;
+  border-radius: 50%;
+  width: 9px;
+  height: 9px;
+}
+.create-account-child11,
+.create-account-child12,
+.create-account-child13 {
+  position: absolute;
+  background-color: var(--color-darkslateblue-200);
+}
+.create-account-child12 {
+  top: 459px;
+  left: 190px;
+  border-radius: 50%;
+  width: 9px;
+  height: 9px;
+}
+.create-account-child13 {
+  top: 513px;
+  left: 36px;
+  border-radius: var(--br-8xs);
+  width: 310px;
+  height: 47px;
+}
+.continue {
+  position: absolute;
+  top: 527px;
+  left: 156px;
+  font-size: var(--font-size-base);
+  font-weight: 500;
+  color: var(--color-lavender);
+}
+.create-account {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 667px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-3xs);
+  color: var(--color-darkslateblue-200);
+  font-family: var(--font-inter);
+}

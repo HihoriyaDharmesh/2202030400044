@@ -1,0 +1,7 @@
+.rectangle-div8 {
+  width: 100%;
+  position: relative;
+  border-radius: 0 var(--br-8xs) var(--br-8xs) 0;
+  background-color: var(--color-linen);
+  height: 34px;
+}

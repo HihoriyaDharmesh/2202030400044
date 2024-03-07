@@ -1,0 +1,33 @@
+.vector-icon7,
+.vector-icon8,
+.vector-icon9 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vector-icon8,
+.vector-icon9 {
+  height: 12.35%;
+  width: 12.35%;
+  top: 54.12%;
+  right: 58.24%;
+  bottom: 33.53%;
+  left: 29.41%;
+}
+.vector-icon9 {
+  right: 29.41%;
+  left: 58.24%;
+}
+.train {
+  width: 100%;
+  position: relative;
+  height: 17px;
+  overflow: hidden;
+}
